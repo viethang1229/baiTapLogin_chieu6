@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 tui la viet
 tui que o quang ngai
+=======
+tui la viet
+tui que o binh duong
+>>>>>>> origin/pull
